@@ -1,0 +1,14 @@
+body{
+background-color:black;
+}
+.b{
+    background-color: yellow;
+
+
+}
+label{
+    width: 100px;
+    display: inline-block;
+}
+
+
